@@ -13,7 +13,7 @@ Sou uma FullStack Developer :computer:
  
   <br/> :blush: &nbsp; Caso queira saber da minha trajetória em TI, faça uma visita no meu Linkedin. 
   
- <br/> Meus contatos para trocarmos experiências, ou caso você consiga me ajudar com alguma oportunidade de estágio (mesmo que sem remuneração, no momento quero é aprender!!):
+ <br/> Meus contatos para trocarmos experiências, ou caso você consiga me ajudar com alguma oportunidade de estágio em programação (mesmo que sem remuneração, no momento quero é aprender!!):
  <br/> Email: morallesrizzo@gmail.com
  <br/> Linkedin: https://www.linkedin.com/in/mariana-rizzo-3035b529/
 
