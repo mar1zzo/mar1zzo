@@ -7,11 +7,17 @@
 Sou apaixonada por resolver problemas utilizando a programação.
 Sou uma FullStack Developer :computer:
 
- :rocket:  &nbsp; Estou estudando na **Rocketseat**
+ :rocket:  &nbsp; Estou estudando na **Rocketseat** e logo logo espero trazer novidades por aqui!
  
- <br/> Contatos:
+ <br/> :blush: &nbsp; Passei um tempo longe da programação. Na verdade, alguns bons anos, eu já até programei em Cobol (rs) e C#, mas estou retomando os estudos e estou bastante animada! 
+ 
+  <br/> :blush: &nbsp; Caso queira saber da minha trajetória em TI, faça uma visita no meu Linkedin. 
+  
+ <br/> Meus contatos para trocarmos experiências, ou caso você consiga me ajudar com alguma oportunidade de estágio (mesmo que sem remuneração, no momento quero é aprender!!):
  <br/> Email: morallesrizzo@gmail.com
  <br/> Linkedin: https://www.linkedin.com/in/mariana-rizzo-3035b529/
+
+ 
 
 
 
