@@ -6,7 +6,7 @@
 ## Olá pessoal 👋
 <br/> Sou apaixonada por tecnologia!
 
-<br/> :blush: &nbsp; Passei um tempo longe da programação. Na verdade, alguns bons anos &nbsp; :sweat_smile: &nbsp; ! Eu já até programei em Cobol &nbsp; :joy: &nbsp; e &nbsp; C#.NET &nbsp; :muscle: &nbsp;, mas estou retomando os estudos e estou bastante animada! &nbsp; :boom: :boom: :boom:
+<br/> :blush: &nbsp; Passei um tempo longe da programação. Na verdade, alguns bons anos &nbsp; :sweat_smile: &nbsp; ! Eu já até programei em Cobol &nbsp; :muscle: &nbsp; e C#.NET &nbsp; :muscle: &nbsp; &nbsp; :joy: &nbsp;, mas estou retomando os estudos e estou bastante animada! &nbsp; :boom: :boom: :boom:
 
  <br/> :blush: &nbsp; Caso queira saber da minha trajetória em TI, faça uma visita no meu Linkedin. 
 
