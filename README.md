@@ -1,31 +1,19 @@
-<img width="auto" src="https://github.com/tgmarinho/tgmarinho/blob/master/banner.png">
+# Hi There, I'm Mari Rizzo 👋
 
+## A clean code enthusiast and focused on helping people solve problems with technology.
 
-# Mariana Rizzo
+<br/> :satellite: &nbsp; I am currently looking for a remote job.
+<br/> :mortar_board: &nbsp; I'm currently learning everything, but with more focus on mobile apps
+<br/> :handshake: &nbsp; I am looking to collaborate with projects that help parents and caregivers with children's emotional education.
+<br/> :dart: &nbsp; 2020 goals: Develop two mobile applications that facilitate everyday life in quarantine. One for health professionals and another for education.
+<br/> :mag: &nbsp; Curiosity: I love playing ukulele!
 
-## Olá pessoal 👋
-<br/> Sou apaixonada por tecnologia!
+<br/> :woman_technologist_tone1: &nbsp; If you want to know about my IT career, visit my Linkedin.
 
-<br/> :blush: &nbsp; Passei um tempo longe da programação. Na verdade, alguns bons anos &nbsp; :sweat_smile: &nbsp; ! Eu já até programei em Cobol &nbsp; :muscle: &nbsp; e C#.NET &nbsp; :muscle: &nbsp; &nbsp; :joy: &nbsp;, mas estou retomando os estudos e estou bastante animada! &nbsp; :boom: :boom: :boom:
+<br/> :rocket: &nbsp; I'm studying at ** Rocketseat ** and soon I hope to bring news here!
 
- <br/> :blush: &nbsp; Caso queira saber da minha trajetória em TI, faça uma visita no meu Linkedin. 
+<br/> Connect with me:
+<br/> Email: morallesrizzo@gmail.com
+<br/> Linkedin: https://www.linkedin.com/in/mariana-rizzo-3035b529/
 
-:rocket:  &nbsp; Estou estudando na **Rocketseat** e logo logo espero trazer novidades por aqui!
-
- <br/> Esses são os meus contatos para trocarmos experiências ou caso você consiga me ajudar com alguma oportunidade de estágio em programação (mesmo que sem remuneração, no momento quero é aprender!!):
- <br/> Email: morallesrizzo@gmail.com
- <br/> Linkedin: https://www.linkedin.com/in/mariana-rizzo-3035b529/
-
- 
-
-
-
- <!--
- <br/> :purple_heart: &nbsp; Buscando colaborar com projetos em Front-end usando React
- <br/> :blush: &nbsp; Posso te ajudar com CSS Grid Layout e Flexbox
- <br/> :computer: &nbsp; Minha stack: ReactJS, Node.js, React Native & Typescript
- <br/> 💬  &nbsp; Sobre mim: Curto tecnologias, games CS:GO, LoL e seriados no Netflix
- <br/> :email: &nbsp; Entre em contato comigo: [![Linkedin Badge](https://img.shields.io/badge/-ThiagoMarinho-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tgmarinho/)](https://www.linkedin.com/in/tgmarinho/) 
-| 
-[![Gmail Badge](https://img.shields.io/badge/-tgmarinho@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tgmarinho@gmail.com)](mailto:tgmarinho@gmail.com)
--->
+<br/> Languages and Tools:
