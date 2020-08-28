@@ -11,7 +11,7 @@ A clean code enthusiast and focused on helping people solve problems with techno
 <br/> :mortar_board: &nbsp; I'm currently learning everything, but with more focus on mobile apps
 <br/> :handshake: &nbsp; I am looking to collaborate with projects that help parents and caregivers with children's emotional education.
 <br/> :dart: &nbsp; 2020 goals: Develop two mobile applications that facilitate everyday life in quarantine. One for health professionals and another for education.
-:zap: :zap: &nbsp; Fun fact: I love playing ukulele! :notes: &nbsp; :stuck_out_tongue_winking_eye:
+<br/> :zap: :zap: &nbsp; Fun fact: I love playing ukulele! :notes: &nbsp; :stuck_out_tongue_winking_eye:
 
 <h3> Connect with me: </h3>
 <a href="https://www.instagram.com/marianamorallesrizzo/" target="_blank">
@@ -20,7 +20,7 @@ A clean code enthusiast and focused on helping people solve problems with techno
 <a href="https://www.linkedin.com/in/mariana-rizzo-3035b529/" target="_blank">
     <img align="left" width="26px" src="https://user-images.githubusercontent.com/69127182/91503359-a17da980-e8a0-11ea-8021-5ab9dfb5e11e.png" style="max-width=100%" />
 </a>
-
+<br/> 
 <h3> Languages and Tools: </h3>
 <img align="left" width="26px" src="https://user-images.githubusercontent.com/69127182/91502141-bf95da80-e89d-11ea-8784-02bafb4d1cdf.png" style="max-width=100%" />
 <img align="left" width="26px" src="https://user-images.githubusercontent.com/69127182/91502081-983f0d80-e89d-11ea-82c2-778c3d1d8dbb.png" style="max-width=100%" />
