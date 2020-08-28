@@ -2,11 +2,10 @@
 
 <h2 align="center">
 Hi there, I'm Mari Rizzo 👋  
-<h2/>
-<br/>
-<h2 align="center">
+</h2>
+<h3 align="center">
 A clean code enthusiast and focused on helping people solve problems with technology.
-<h2/>
+</h3>
 
 <br/> :satellite: &nbsp; I am currently looking for a remote job.
 <br/> :mortar_board: &nbsp; I'm currently learning everything, but with more focus on mobile apps
