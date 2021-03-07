@@ -26,7 +26,7 @@ A clean code enthusiast and focused on helping people solve problems with techno
 
 <img align="left" width="26px" src="https://user-images.githubusercontent.com/69127182/91502062-8d847880-e89d-11ea-9053-dc973bac7b60.png" style="max-width=100%" alt="NodeJS" />
 
-<img align="left" width="26px" src="https://user-images.githubusercontent.com/69127182/110251940-cba3d880-7f61-11eb-92de-cbe02dcc354f.png" style="max-width=100%" alt="Flask" />
+<img align="left" width="26px" src="https://user-images.githubusercontent.com/69127182/110252134-afed0200-7f62-11eb-9c76-d83f7f43faf7.png" style="max-width=100%" alt="Flask" />
 
 <img align="left" width="26px" src="https://user-images.githubusercontent.com/69127182/91502103-a68d2980-e89d-11ea-8a92-07707129b7e1.png" style="max-width=100%" alt="Javascript" />
 
