@@ -1,4 +1,4 @@
-<img align="center" src="https://user-images.githubusercontent.com/69127182/110251109-bc229080-7f5d-11eb-96be-01140d8524b6.png" style="max-width=100%" />
+<img align="center" src="https://user-images.githubusercontent.com/69127182/110252522-a5336c80-7f64-11eb-9a6a-adad53bb3dab.png" style="max-width=100%" />
 
 <h2 align="center">
 Hi there, I'm Mari Rizzo 👋  
