@@ -7,10 +7,12 @@ Hi there, I'm Mari Rizzo 👋
 A clean code enthusiast and focused on helping people solve problems with technology
 </h3>
 
-<br/> :satellite: &nbsp; I am currently looking for a remote job.
-<br/> :mortar_board: &nbsp; I'm currently learning everything, but with more focus on mobile apps
+<br/> :satellite: &nbsp; I am currently focused on developing applications that help people have significant fun in the quarantine.
+<br/> :mortar_board: &nbsp; I love to learn new things and in 2021 I am enrolled in a 
+<a href="https://learning.edx.org/course/course-v1:HarvardX+CS50G+Games/home" target="_blank">
+game development course </a>.
 <br/> :handshake: &nbsp; I am looking to collaborate with projects that help parents and caregivers with children's emotional education.
-<br/> :dart: &nbsp; 2021 goals: Develop two mobile applications that facilitate everyday life in quarantine. One for health professionals and another for education.
+<br/> :dart: &nbsp; 2021 goals: Provide a new mobile application with a focus on mental health and social responsibility 
 <br/> :zap: :zap: &nbsp; Fun fact: I love games and music! :notes: &nbsp; :stuck_out_tongue_winking_eye:
 
 <h3> Connect with me: </h3>
