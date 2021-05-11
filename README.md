@@ -6,42 +6,32 @@ Hi there, I'm Mari Rizzo 👋
 <h3 align="center">
 A clean code enthusiast and focused on helping people solve problems with technology
 </h3>
-<br/> :satellite: &nbsp; I am currently focused on developing applications that help people have significant fun in the quarantine.
-<br/> :mortar_board: &nbsp; I love to learn new things and in 2021 I signed up for the online course Harvard 
-<a href="https://learning.edx.org/course/course-v1:HarvardX+CS50G+Games/home" target="_blank">
-CS50's Introduction to Game Development </a>.
-<br/> :handshake: &nbsp; I am looking to collaborate with projects that help parents and caregivers with children's emotional education.
-<br/> :dart: &nbsp; 2021 goals: Provide a new mobile application with a focus on mental health and social responsibility 
-<br/> :zap: :zap: &nbsp; Fun fact: I love the game Zelda! &nbsp; :dagger: :shield: &nbsp; :stuck_out_tongue_winking_eye:
-
+<p align="justify">
+I am a professional in love about technology and studying how our brain learns new things. I have more than 15 years of experience in the IT area and my passion for programming has made me go back to the origins and venture again into design and programming of mobile applications.
+<p/> 
+<p align="justify">
+By encouragement, and inspiration, from a colleague I admire, I decided to study development of multiplatform digital games and I think I found a new passion. And yes, I am also an enthusiast for writing clean, elegant and high-performance code, so I believe that “little things matter”.
+<p/> 
 <h3> Connect with me: </h3>
-<a href="https://www.instagram.com/marianamorallesrizzo/" target="_blank">
-    <img align="left" width="26px" src="https://user-images.githubusercontent.com/69127182/91503533-118c2f80-e8a1-11ea-9724-e0ebd2087205.png" style="max-width=100%" />
-</a>
-<a href="https://www.linkedin.com/in/mariana-rizzo-3035b529/" target="_blank">
-    <img align="left" width="26px" src="https://user-images.githubusercontent.com/69127182/91503359-a17da980-e8a0-11ea-8021-5ab9dfb5e11e.png" style="max-width=100%" />
-</a>
-<br/> 
+
+[![Linkedin Badge](https://img.shields.io/badge/-Mariana-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mariana-rizzo-3035b529/)](https://www.linkedin.com/in/mariana-rizzo-3035b529/) 
+[![Gmail Badge](https://img.shields.io/badge/-morallesrizzo@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:morallesrizzo@gmail.com)](mailto:morallesrizzo@gmail.com)
+
 <h3> Languages and Tools: </h3>
-<img align="left" width="26px" src="https://user-images.githubusercontent.com/69127182/110251165-0c99ee00-7f5e-11eb-8f42-4dde39c228a3.png" style="max-width=100%" alt="swift" />
-
-<img align="left" width="26px" src="https://user-images.githubusercontent.com/69127182/91502062-8d847880-e89d-11ea-9053-dc973bac7b60.png" style="max-width=100%" alt="NodeJS" />
-
-<img align="left" width="26px" src="https://user-images.githubusercontent.com/69127182/110252134-afed0200-7f62-11eb-9c76-d83f7f43faf7.png" style="max-width=100%" alt="Flask" />
-
-<img align="left" width="26px" src="https://user-images.githubusercontent.com/69127182/91502103-a68d2980-e89d-11ea-8a92-07707129b7e1.png" style="max-width=100%" alt="Javascript" />
-
-<img align="left" width="26px" src="https://user-images.githubusercontent.com/69127182/91502081-983f0d80-e89d-11ea-82c2-778c3d1d8dbb.png" style="max-width=100%" alt="HTML" />
-
-<img align="left" width="26px" src="https://user-images.githubusercontent.com/69127182/91502086-9d9c5800-e89d-11ea-81b8-83e69d78a675.png" style="max-width=100%" alt="CSS3" />
-
-<img align="left" width="26px" src="https://user-images.githubusercontent.com/69127182/110251715-964abb00-7f60-11eb-9b1a-7c57335bff3b.png" style="max-width=100%" alt="postgreSQL" />
-
-<img align="left" width="26px" src="https://user-images.githubusercontent.com/69127182/91502123-b278eb80-e89d-11ea-9848-61cda0e893c1.png" style="max-width=100%" alt="git" />
-
-<img align="left" width="26px" src="https://user-images.githubusercontent.com/69127182/91502141-bf95da80-e89d-11ea-8784-02bafb4d1cdf.png" style="max-width=100%" alt="VSCode" />
-
-<img align="left" width="26px" src="https://user-images.githubusercontent.com/69127182/91502130-b86ecc80-e89d-11ea-9221-27f1414dd04a.png" style="max-width=100%" alt="Terminal" />
-
+<p>
+  <img src="https://img.shields.io/static/v1?label=Love&message=framework&color=pink&style=flat&logo=love"/>
+      <img src="https://img.shields.io/static/v1?label=Lua&message=language&color=blue&style=flat&logo=lua"/>
+  <img src="https://img.shields.io/static/v1?label=&message=language&color=blue&style=flat&logo=c"/>
+  <img src="https://img.shields.io/static/v1?label=VSCode&message=editor&color=orange&style=flat&logo=visual-studio-code"/>
+</p>
+<p>
+  <img src="https://img.shields.io/static/v1?label=Flask&message=framework&color=pink&style=flat&logo=flask"/>
+  <img src="https://img.shields.io/static/v1?label=Python&message=language&color=blue&style=flat&logo=python"/>
+  <img src="https://img.shields.io/static/v1?label=PyCharm&message=editor&color=orange&style=flat&logo=pycharm"/>
+</p>
+<p>
+  <img src="https://img.shields.io/static/v1?label=Swift&message=language&color=blue&style=flat&logo=swift"/>
+  <img src="https://img.shields.io/static/v1?label=Xcode&message=code-editor&color=orange&style=flat&logo=xcode"/>
+</p>
 
 
