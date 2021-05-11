@@ -18,7 +18,7 @@ By encouragement, and inspiration, from a colleague I admire, I decided to study
 [![Gmail Badge](https://img.shields.io/badge/-morallesrizzo@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:morallesrizzo@gmail.com)](mailto:morallesrizzo@gmail.com)
 
 <h3> Languages and Tools: </h3>
-<p align="center">
+<p>
   <img src="https://img.shields.io/static/v1?label=&message=language&color=blue&style=flat&logo=c"/>
   <img src="https://img.shields.io/static/v1?label=Lua&message=language&color=blue&style=flat&logo=lua"/>
   <img src="https://img.shields.io/static/v1?label=Love&message=framework&color=pink&style=flat&logo=love"/>
