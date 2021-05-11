@@ -19,16 +19,18 @@ By encouragement, and inspiration, from a colleague I admire, I decided to study
 
 <h3> Languages and Tools: </h3>
 <p align="center">
-  <img src="https://img.shields.io/static/v1?label=Love&message=framework&color=pink&style=flat&logo=love"/>
-  <img src="https://img.shields.io/static/v1?label=Flask&message=framework&color=pink&style=flat&logo=flask"/>
-
-  <img src="https://img.shields.io/static/v1?label=Lua&message=language&color=blue&style=flat&logo=lua"/>
   <img src="https://img.shields.io/static/v1?label=&message=language&color=blue&style=flat&logo=c"/>
-  <img src="https://img.shields.io/static/v1?label=Python&message=language&color=blue&style=flat&logo=python"/>
-  <img src="https://img.shields.io/static/v1?label=Swift&message=language&color=blue&style=flat&logo=swift"/>
-
+  <img src="https://img.shields.io/static/v1?label=Lua&message=language&color=blue&style=flat&logo=lua"/>
+  <img src="https://img.shields.io/static/v1?label=Love&message=framework&color=pink&style=flat&logo=love"/>
   <img src="https://img.shields.io/static/v1?label=VSCode&message=editor&color=black&style=flat&logo=visual-studio-code"/>
+</p>
+<p>
+  <img src="https://img.shields.io/static/v1?label=Python&message=language&color=blue&style=flat&logo=python"/>
+  <img src="https://img.shields.io/static/v1?label=Flask&message=framework&color=pink&style=flat&logo=flask"/>
   <img src="https://img.shields.io/static/v1?label=PyCharm&message=editor&color=black&style=flat&logo=pycharm"/>
+</p>
+<p>
+  <img src="https://img.shields.io/static/v1?label=Swift&message=language&color=blue&style=flat&logo=swift"/>
   <img src="https://img.shields.io/static/v1?label=Xcode&message=editor&color=black&style=flat&logo=xcode"/>
 </p> 
 
