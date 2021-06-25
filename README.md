@@ -1,8 +1,8 @@
-<img align="left" src="https://user-images.githubusercontent.com/69127182/123482257-537a2500-d5db-11eb-86f4-2a1ac13403c2.gif" width="70%" height="70%" />
+<img align="left" src="https://user-images.githubusercontent.com/69127182/123482257-537a2500-d5db-11eb-86f4-2a1ac13403c2.gif" width="50%" height="50%" />
 
 **Hi, I'm Mari Rizzo** 👋 
 
-💻  &nbsp; Programmer who loves open world games
+💻  &nbsp; Programmer who loves open world games.
 
 **Find me around at** 🌎
 
