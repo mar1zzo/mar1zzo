@@ -1,4 +1,7 @@
-<img align="left" src="https://user-images.githubusercontent.com/69127182/123482257-537a2500-d5db-11eb-86f4-2a1ac13403c2.gif" width="50%" height="50%" />
+<img align="left" src="https://user-images.githubusercontent.com/69127182/123482257-537a2500-d5db-11eb-86f4-2a1ac13403c2.gif" width="100%" height="60%" />
+  
+<br/>  &nbsp;
+
 
 **Hi, I'm Mari Rizzo** 👋 
 
